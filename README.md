@@ -1,5 +1,5 @@
 
-<iframe src="https://giphy.com/embed/XIqCQx02E1U9W" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://giphy.com/embed/XIqCQx02E1U9W" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 <p><a href="https://giphy.com/gifs/XIqCQx02E1U9W">via GIPHY</a></p>
 
 <h1 align="left">Russell Quao</h1>
