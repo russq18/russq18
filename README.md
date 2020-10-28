@@ -1,8 +1,4 @@
 
-<img src="https://media.giphy.com/media/XIqCQx02E1U9W/source.gif" width=100% height="60%"  align="left"/>
-<p>
-    <a href="https://giphy.com/gifs/XIqCQx02E1U9W">via GIPHY</a>
-</p>
 <h1 align="left">Russell Quao</h1>
 <h3 align="left">Budding Fullstack Software Developer</h3>
 
