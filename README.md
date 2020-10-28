@@ -1,3 +1,5 @@
+<img src="https://tenor.com/view/kermit-typing-frog-fast-comments-gif-5275838" width=100%  align="left"/>
+
 <h1 align="left">Russell Quao</h1>
 <h3 align="left">Budding Fullstack Software Developer</h3>
 
@@ -16,20 +18,11 @@
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-[<code> 
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-    </code>](https://www.w3schools.com/cs/)
-    [<code>
-        <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-    </code>](https://code.visualstudio.com/) 
+<h3 align="left">Languages:</h3>
 <p align="left">
-    <a href="https://dotnet.microsoft.com/" target="_blank"> 
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
+    <a href="https://www.w3schools.com/cs/" target="_blank"> 
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
     </a>
-    <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> 
-    </a>  
     <a href="https://www.cprogramming.com/" target="_blank"> 
         <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
     </a> 
@@ -42,18 +35,35 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
         <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     </a> 
+</p>
+
+<h3 align="left">Frameworks</h3>
+<p align="left">
+    <a href="https://dotnet.microsoft.com/" target="_blank"> 
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
+    </a>
+    <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> 
+    </a>  
     <a href="https://vuejs.org/" target="_blank"> 
         <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
     </a> 
     <a href="https://nodejs.org" target="_blank"> 
         <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
     </a> 
+</p>
+
+<h3 align="left">Tools and IDEs:</h3>
+<p align="left">
     <a href="https://git-scm.com/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a> 
-    <a href="https://www.figma.com/" target="_blank"> 
+    <a href="https://code.visualstudio.com/" target="_blank"> 
+        <img src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" alt="visual studio code" width="40" height="40"/> 
+    </a>
+     <a href="https://www.figma.com/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-    </a> 
+    </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=russq18&show_icons=true&locale=en&layout=compact&theme=radical" alt="russq18" /></p>
