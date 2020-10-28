@@ -18,7 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    [<code> 
+    ![<code> 
         <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
     </code>](https://www.w3schools.com/cs/) 
     <a href="https://dotnet.microsoft.com/" target="_blank"> 
