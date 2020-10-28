@@ -1,5 +1,7 @@
 
-<img src="https://s3.amazonaws.com/media.expresswriters.com/wp-content/uploads/2018/08/27200200/gif-kermit-typing.gif" width=100% height="50%" align="left"/>
+<iframe src="https://giphy.com/embed/XIqCQx02E1U9W" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<p><a href="https://giphy.com/gifs/XIqCQx02E1U9W">via GIPHY</a></p>
+
 <h1 align="left">Russell Quao</h1>
 <h3 align="left">Budding Fullstack Software Developer</h3>
 
