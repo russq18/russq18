@@ -1,7 +1,5 @@
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;">
-    <iframe src="https://giphy.com/embed/XIqCQx02E1U9W" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen/>
-</div>
+<img src="https://media.giphy.com/media/XIqCQx02E1U9W/source.gif" width=100%  align="left"/>
 <p>
     <a href="https://giphy.com/gifs/XIqCQx02E1U9W">via GIPHY</a>
 </p>
