@@ -54,15 +54,15 @@
 
 <h3 align="left">Tools and IDEs:</h3>
 <p align="left">
-    <a href="https://git-scm.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://code.visualstudio.com/" target="_blank"> 
-        <img src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" alt="visual studio code" width="40" height="40"/> 
-    </a>
     <a href="https://visualstudio.microsoft.com/" target="_blank"> 
         <img src="https://img.icons8.com/fluent/240/000000/visual-studio-2019.png" alt="visual studio" width="40" height="40"/> 
     </a>
+     <a href="https://code.visualstudio.com/" target="_blank"> 
+        <img src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" alt="visual studio code" width="40" height="40"/> 
+    </a>
+    <a href="https://git-scm.com/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    </a> 
      <a href="https://www.figma.com/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
     </a>
