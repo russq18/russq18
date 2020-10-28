@@ -1,5 +1,5 @@
-<img src="https://tenor.com/view/kermit-typing-frog-fast-comments-gif-5275838" width=100%  align="left"/>
 
+<img src="https://ginadrayer.com/wp-content/uploads/2015/04/typing-crazy.gif" width=100%  align="left"/>
 <h1 align="left">Russell Quao</h1>
 <h3 align="left">Budding Fullstack Software Developer</h3>
 
