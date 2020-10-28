@@ -2,6 +2,8 @@
 <h1 align="left">Russell Quao</h1>
 <h3 align="left">Budding Fullstack Software Developer</h3>
 
+- 👨‍💻 I'm an Software Developer @ <a href = "https://www.jkmoving.com/"> JK Moving & Storage </a>.
+
 - 🔭 I’m currently working on: **Learning more about Software Development**
 
 - 🌱 I’m currently learning: **.NET, Xamarin Forms,C#,Vue.js**
@@ -72,4 +74,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=russq18&show_icons=true&locale=en&theme=radical" alt="russq18" /></p>
 
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
+_NOTE: Top languages does not indicate my skill level, just a percentage of code in that language I have on GitHub._
