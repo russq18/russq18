@@ -1,9 +1,8 @@
 
-<img src="https://media.giphy.com/media/XIqCQx02E1U9W/source.gif" width=100%  align="left"/>
+<img src="https://media.giphy.com/media/XIqCQx02E1U9W/source.gif" width=100% height="30"  align="left"/>
 <p>
     <a href="https://giphy.com/gifs/XIqCQx02E1U9W">via GIPHY</a>
 </p>
-[hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 <h1 align="left">Russell Quao</h1>
 <h3 align="left">Budding Fullstack Software Developer</h3>
 
