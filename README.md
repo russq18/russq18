@@ -18,9 +18,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    ![<code> 
+    [<code> 
         <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-    </code>](https://www.w3schools.com/cs/) 
+    </code>](https://www.w3schools.com/cs/)
+    [<code>
+        <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+    </code>](https://code.visualstudio.com/) 
     <a href="https://dotnet.microsoft.com/" target="_blank"> 
         <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
     </a>
