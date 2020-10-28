@@ -61,7 +61,7 @@
         <img src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" alt="visual studio code" width="40" height="40"/> 
     </a>
     <a href="https://visualstudio.microsoft.com/" target="_blank"> 
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visual studio" width="40" height="40"/> 
+        <img src="https://tipsonubuntu.com/wp-content/uploads/2017/03/visual-studio-icon.jpg" alt="visual studio" width="40" height="40"/> 
     </a>
      <a href="https://www.figma.com/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
